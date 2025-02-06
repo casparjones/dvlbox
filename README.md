@@ -1,7 +1,7 @@
 # dvlbox.de - Local Testing Domain
 
 ## Overview
-**dvlbox.de** provides an easy-to-use local testing environment without the need to modify your `hosts` file. All subdomains of `dvlbox.de` automatically resolve to `127.0.0.1` and `::1`, making it perfect for local development and testing.
+**[dvlbox.de](http://dvlbox.de/)** provides an easy-to-use local testing environment without the need to modify your `hosts` file. All subdomains of `dvlbox.de` automatically resolve to `127.0.0.1` and `::1`, making it perfect for local development and testing.
 
 ## How It Works
 Instead of manually adding entries in the `hosts` file, you can use `dvlbox.de` for local development:
